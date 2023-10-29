@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+.colalogo
+{
+  width:704px;
+  height:82px;
+}
+.headerdiv
+{
+  background-color: white;
+  display:flex;
+  justify-content: center;
+  height:120px;
+  align-items: center;
+}
+.App
+{
+  background-color: #E1E1E1;
+  height:4300px;
+}
+.extrazone
+{
+  display:flex;
+  justify-content: center;
+  height:800px;
+  align-items: center;
+}
+.socialprojects
+{
+  height:600px;
+  width:600px;
+  background-color: white;
+  border-radius:20px;
+  box-shadow:0px 0px 79px 17px gray;
+  position: relative;
+  z-index: 1;
+  left:50px;
+}
+.roditel
+{
+  background-color: #E1E1E1;
+  display: flex;
+  justify-content: center;
+}
+.our
+{
+  height:600px;
+  width:600px;
+}
+.text1
+{
+  font-size:48px;
+  margin-left:45px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.text2
+{
+  font-size:32px;
+  margin-left:45px;
+  font-family: 'Josefin Sans', sans-serif;
+  position: relative;
+  bottom:20px;
+}
+.image1
+{
+  position: relative;
+  top:100px;
+  right:50px;
+  z-index: 0;
+}
+.roditel2
+{
+  background-color: #E1E1E1;
+  display: flex;
+  justify-content: center;
+  margin-top:270px;
+}
+.image2
+{
+  position: relative;
+  top:100px;
+  left:50px;
+  z-index: 0;
+}
+.socialprojects2
+{
+  height:600px;
+  width:600px;
+  background-color: white;
+  border-radius:20px;
+  box-shadow:0px 0px 79px 17px gray;
+  position: relative;
+  z-index: 1;
+  right:50px;
+}
+.meetourbrands
+{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:64px;
+  text-align:center;
+  margin-top:240px;
+}
+.cubic
+{
+  width:297px;
+  height:297px;
+  box-shadow:0px 11px 16px 11px gray;
+  background-color: white;
+  border-radius: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.roditel1stroka
+{
+  margin-top:100px;
+  display: flex;
+  justify-content:space-evenly;
+}
+footer
+{
+  background-color: black;
+  height:394px;
+  width:100%;
+  margin-top:100px;
+}
+.image21
+{
+  width:249px;
+  height:40px;
+}
+.text21
+{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:20px;
+  color:white;
+}
+.divdiv
+{
+  display: flex;
+  justify-content: center;
+}
+.divdiv2
+{
+  display: flex;
+  justify-content: center;
+}
+.divdiv3
+{
+  width:948px;
+  height:3px;
+  background-color: white;
+}
+.fff
+{
+  display: flex;
+  justify-content: center;
+}
+.diver
+{
+  padding-top:150px;
+}
